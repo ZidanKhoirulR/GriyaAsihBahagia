@@ -12,7 +12,9 @@ return new class extends Migration
      */
     public function up(): void
     {
-        DB::statement("ALTER TABLE users MODIFY COLUMN role ENUM('pengurus_rw', 'pengurus_rt', 'sekretaris', 'bendahara', 'warga') DEFAULT 'warga'");
+        if (in_array(DB::getDriverName(), ['mysql', 'mariadb'])) {
+            DB::statement("ALTER TABLE users MODIFY COLUMN role ENUM('pengurus_rw', 'pengurus_rt', 'sekretaris', 'bendahara', 'warga') DEFAULT 'warga'");
+        }
     }
 
     /**
