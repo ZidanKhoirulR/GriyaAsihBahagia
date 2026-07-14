@@ -1,0 +1,3923 @@
+[
+    {
+        "slug": "2c2p",
+        "name": "2c2p",
+        "category": "payment-gateway",
+        "aliases": [
+            "2c2p-new"
+        ]
+    },
+    {
+        "slug": "2c2p-alt",
+        "name": "2c2p (Alt)",
+        "category": "payment-gateway",
+        "aliases": [
+            "2c2p-new-alt"
+        ]
+    },
+    {
+        "slug": "2c2p-old",
+        "name": "2c2p (Old)",
+        "category": "payment-gateway"
+    },
+    {
+        "slug": "acc",
+        "name": "ACC",
+        "category": "financing"
+    },
+    {
+        "slug": "acc-alt",
+        "name": "ACC (Alt)",
+        "category": "financing"
+    },
+    {
+        "slug": "adakami",
+        "name": "AdaKami",
+        "category": "financing"
+    },
+    {
+        "slug": "adakami-alt",
+        "name": "AdaKami (Alt)",
+        "category": "financing"
+    },
+    {
+        "slug": "adira-finance",
+        "name": "Adira Finance",
+        "category": "financing"
+    },
+    {
+        "slug": "aeon",
+        "name": "AEON",
+        "category": "supermarket"
+    },
+    {
+        "slug": "aeon-credit-service",
+        "name": "AEON Credit Service",
+        "category": "financing",
+        "aliases": [
+            "aeon-credit"
+        ]
+    },
+    {
+        "slug": "aetra-tangerang",
+        "name": "Aetra Tangerang",
+        "category": "utilities"
+    },
+    {
+        "slug": "afpi",
+        "name": "AFPI",
+        "category": "regulatory",
+        "aliases": [
+            "asosiasi-fintech-pendanaan-bersama-indonesia"
+        ]
+    },
+    {
+        "slug": "aia",
+        "name": "AIA",
+        "category": "insurance"
+    },
+    {
+        "slug": "akulaku",
+        "name": "Akulaku",
+        "category": "financing"
+    },
+    {
+        "slug": "akulaku-paylater",
+        "name": "Akulaku Paylater",
+        "category": "financing",
+        "aliases": [
+            "akulaku-pay-later"
+        ]
+    },
+    {
+        "slug": "aladin",
+        "name": "Aladin",
+        "category": "bank-logo",
+        "aliases": [
+            "947",
+            "netbidja",
+            "bank-aladin-syariah"
+        ]
+    },
+    {
+        "slug": "alfa-express",
+        "name": "Alfa Express",
+        "category": "supermarket"
+    },
+    {
+        "slug": "alfamart",
+        "name": "Alfamart",
+        "category": "supermarket"
+    },
+    {
+        "slug": "alfamidi",
+        "name": "Alfamidi",
+        "category": "supermarket"
+    },
+    {
+        "slug": "alfamidi-super",
+        "name": "Alfamidi Super",
+        "category": "supermarket"
+    },
+    {
+        "slug": "alipay",
+        "name": "Alipay",
+        "category": "miscellaneous",
+        "aliases": [
+            "alipay-new",
+            "ali-pay"
+        ]
+    },
+    {
+        "slug": "alipay-old",
+        "name": "Alipay (Old)",
+        "category": "miscellaneous"
+    },
+    {
+        "slug": "alipay-plus",
+        "name": "Alipay+",
+        "category": "miscellaneous",
+        "aliases": [
+            "alipayplus"
+        ]
+    },
+    {
+        "slug": "alipay-plus-old",
+        "name": "Alipay+ (Old)",
+        "category": "miscellaneous"
+    },
+    {
+        "slug": "alipay-plus-old-alt",
+        "name": "Alipay+ (Old Alt)",
+        "category": "miscellaneous"
+    },
+    {
+        "slug": "allianz",
+        "name": "Allianz",
+        "category": "insurance"
+    },
+    {
+        "slug": "allianz-alt",
+        "name": "Allianz (Alt)",
+        "category": "insurance"
+    },
+    {
+        "slug": "allo",
+        "name": "Allo",
+        "category": "bank-logo",
+        "aliases": [
+            "567",
+            "alobidja",
+            "allo-bank-indonesia"
+        ]
+    },
+    {
+        "slug": "alto",
+        "name": "ALTO",
+        "category": "switching"
+    },
+    {
+        "slug": "amar-bank",
+        "name": "Amar Bank",
+        "category": "bank-logo",
+        "aliases": [
+            "531",
+            "lomaidj1",
+            "bank-amar",
+            "bank-amar-indonesia"
+        ]
+    },
+    {
+        "slug": "american-express",
+        "name": "American Express",
+        "category": "card-payment",
+        "aliases": [
+            "amex"
+        ]
+    },
+    {
+        "slug": "american-express-alt",
+        "name": "American Express (Alt)",
+        "category": "card-payment",
+        "aliases": [
+            "amercian-express-alt"
+        ]
+    },
+    {
+        "slug": "american-express-alt-2",
+        "name": "American Express (Alt-2)",
+        "category": "card-payment"
+    },
+    {
+        "slug": "anteraja",
+        "name": "AnterAja",
+        "category": "logistic",
+        "aliases": [
+            "anter-aja"
+        ]
+    },
+    {
+        "slug": "anz",
+        "name": "ANZ",
+        "category": "bank-logo",
+        "aliases": [
+            "061",
+            "anzbidjx",
+            "anz-indonesia",
+            "bank-anz-indonesia"
+        ]
+    },
+    {
+        "slug": "app-store",
+        "name": "App Store",
+        "category": "game",
+        "aliases": [
+            "apple-app-store"
+        ]
+    },
+    {
+        "slug": "apple-arcade",
+        "name": "Apple Arcade",
+        "category": "game"
+    },
+    {
+        "slug": "apple-card",
+        "name": "Apple Card",
+        "category": "card-payment"
+    },
+    {
+        "slug": "apple-music",
+        "name": "Apple Music",
+        "category": "entertainment"
+    },
+    {
+        "slug": "apple-pay",
+        "name": "Apple Pay",
+        "category": "miscellaneous",
+        "aliases": [
+            "applepay"
+        ]
+    },
+    {
+        "slug": "aspi",
+        "name": "ASPI",
+        "category": "regulatory",
+        "aliases": [
+            "asosiasi-sistem-pembayaran-indonesia"
+        ]
+    },
+    {
+        "slug": "assa",
+        "name": "ASSA",
+        "category": "logistic"
+    },
+    {
+        "slug": "astra-life",
+        "name": "Astra Life",
+        "category": "insurance"
+    },
+    {
+        "slug": "astra-life-alt",
+        "name": "Astra Life (Alt)",
+        "category": "insurance"
+    },
+    {
+        "slug": "astra-pay",
+        "name": "Astra Pay",
+        "category": "e-wallet",
+        "aliases": [
+            "astrapay"
+        ]
+    },
+    {
+        "slug": "asuransi-sinarmas-insurtech",
+        "name": "Asuransi Sinarmas Insurtech",
+        "category": "insurance"
+    },
+    {
+        "slug": "atm-bersama",
+        "name": "ATM Bersama",
+        "category": "switching"
+    },
+    {
+        "slug": "atm-link",
+        "name": "ATM Link",
+        "category": "switching"
+    },
+    {
+        "slug": "axa",
+        "name": "AXA",
+        "category": "insurance"
+    },
+    {
+        "slug": "axis",
+        "name": "AXIS",
+        "category": "mobile-telco"
+    },
+    {
+        "slug": "ayo-ke-bank",
+        "name": "AYO ke Bank",
+        "category": "regulatory"
+    },
+    {
+        "slug": "bangkok-bank",
+        "name": "Bangkok Bank",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "bank-artha-graha-internasional",
+        "name": "Bank Artha Graha Internasional",
+        "category": "bank-logo",
+        "aliases": [
+            "artgidja",
+            "037",
+            "bag-internasional"
+        ]
+    },
+    {
+        "slug": "bank-bengkulu",
+        "name": "Bank Bengkulu",
+        "category": "bank-logo",
+        "aliases": [
+            "133",
+            "pdbkidj1",
+            "bpd-bengkulu"
+        ]
+    },
+    {
+        "slug": "bank-bjb",
+        "name": "Bank BJB",
+        "category": "bank-logo",
+        "aliases": [
+            "110",
+            "bank-jabar-banten",
+            "pdjbidja",
+            "bank-pembangunan-daerah-jabar-dan-banten"
+        ]
+    },
+    {
+        "slug": "bank-bjb-syariah",
+        "name": "Bank BJB Syariah",
+        "category": "bank-logo",
+        "aliases": [
+            "425",
+            "syjbidj1",
+            "bank-jabar-syariah",
+            "bank-jabar-banten-syariah"
+        ]
+    },
+    {
+        "slug": "bank-bpd-aceh",
+        "name": "Bank BPD Aceh",
+        "category": "bank-logo",
+        "aliases": [
+            "116",
+            "bank-aceh",
+            "syacidj1",
+            "bank-aceh-syariah"
+        ]
+    },
+    {
+        "slug": "bank-bpd-bali",
+        "name": "Bank BPD Bali",
+        "category": "bank-logo",
+        "aliases": [
+            "129",
+            "bank-bali",
+            "abalidbs",
+            "bpd-bali",
+            "bank-pembangunan-daerah-bali"
+        ]
+    },
+    {
+        "slug": "bank-bpd-banten",
+        "name": "Bank BPD Banten",
+        "category": "bank-logo",
+        "aliases": [
+            "137",
+            "bank-banten",
+            "pdbbidj1",
+            "bpd-banten",
+            "bank-pembangunan-daerah-banten"
+        ]
+    },
+    {
+        "slug": "bank-bpd-diy",
+        "name": "Bank BPD DIY",
+        "category": "bank-logo",
+        "aliases": [
+            "112",
+            "bpd-diy",
+            "pdykidj1",
+            "bank-pembangunan-daerah-diy"
+        ]
+    },
+    {
+        "slug": "bank-bpd-jambi",
+        "name": "Bank BPD Jambi",
+        "category": "bank-logo",
+        "aliases": [
+            "115",
+            "bank-jambi",
+            "pdjmidj1",
+            "bpd-jambi",
+            "bank-pembangunan-daerah-jambi"
+        ]
+    },
+    {
+        "slug": "bank-bpd-jateng",
+        "name": "Bank BPD Jateng",
+        "category": "bank-logo",
+        "aliases": [
+            "113",
+            "bank-jateng",
+            "pdjgidj1",
+            "bank-pembangunan-daerah-jawa-tengah"
+        ]
+    },
+    {
+        "slug": "bank-bpd-jatim",
+        "name": "Bank BPD Jatim",
+        "category": "bank-logo",
+        "aliases": [
+            "114",
+            "bank-jatim",
+            "pdjtidj1",
+            "bank-pembangunan-daerah-jatim"
+        ]
+    },
+    {
+        "slug": "bank-bpd-kalbar",
+        "name": "Bank BPD Kalbar",
+        "category": "bank-logo",
+        "aliases": [
+            "123",
+            "bank-kalbar",
+            "pdkbidj1",
+            "bpd-kalbar",
+            "bank-pembangunan-daerah-kalbar"
+        ]
+    },
+    {
+        "slug": "bank-bpd-kalbar-alt",
+        "name": "Bank BPD Kalbar (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "bank-bpd-kalimantan-timur",
+        "name": "Bank BPD Kalimantan Timur",
+        "category": "bank-logo",
+        "aliases": [
+            "124",
+            "bank-kaltim",
+            "pdktidj1",
+            "bpd-kaltimtara",
+            "bank-pembangunan-daerah-kaltim-dan-kaltara"
+        ]
+    },
+    {
+        "slug": "bank-bpd-kalsel",
+        "name": "Bank BPD Kalsel",
+        "category": "bank-logo",
+        "aliases": [
+            "122",
+            "bank-kalsel",
+            "pdksidj1",
+            "bpd-kalsel",
+            "bank-pembangunan-daerah-kalsel"
+        ]
+    },
+    {
+        "slug": "bank-bpd-kalteng",
+        "name": "Bank BPD Kalteng",
+        "category": "bank-logo",
+        "aliases": [
+            "125",
+            "bank-kalteng",
+            "pdkgidj1",
+            "bpd-kalteng",
+            "bpd-kalimantan-tengah"
+        ]
+    },
+    {
+        "slug": "bank-bpd-lampung",
+        "name": "Bank BPD Lampung",
+        "category": "bank-logo",
+        "aliases": [
+            "121",
+            "pdlpidj1",
+            "bank-pembangunan-daerah-lampung"
+        ]
+    },
+    {
+        "slug": "bank-bpd-maluku-malut",
+        "name": "Bank BPD Maluku Malut",
+        "category": "bank-logo",
+        "aliases": [
+            "131",
+            "bank-maluku",
+            "pdmlidj1",
+            "bank-maluku-malut",
+            "bank-pembangunan-daerah-maluku-dan-maluku-utara"
+        ]
+    },
+    {
+        "slug": "bank-bpd-ntb-syariah",
+        "name": "Bank BPD NTB Syariah",
+        "category": "bank-logo",
+        "aliases": [
+            "128",
+            "bank-ntb",
+            "pdnbidj1",
+            "bank-ntb-syariah",
+            "bank-pembangunan-daerah-nusa-tenggara-barat-syariah"
+        ]
+    },
+    {
+        "slug": "bank-bpd-ntb-syariah-alt",
+        "name": "Bank BPD NTB Syariah (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "bank-bpd-ntt",
+        "name": "Bank BPD NTT",
+        "category": "bank-logo",
+        "aliases": [
+            "130",
+            "bank-ntt",
+            "pdntidja",
+            "bpd-ntt",
+            "bank-pembangunan-daerah-ntt"
+        ]
+    },
+    {
+        "slug": "bank-bpd-papua",
+        "name": "Bank BPD Papua",
+        "category": "bank-logo",
+        "aliases": [
+            "132",
+            "bank-papua",
+            "pdijidj1",
+            "bpd-papua",
+            "bank-pembangunan-daerah-papua"
+        ]
+    },
+    {
+        "slug": "bank-bpd-riau-kepri",
+        "name": "Bank BPD Riau Kepri",
+        "category": "bank-logo",
+        "aliases": [
+            "119",
+            "bank-riau-kepri",
+            "pdriidja",
+            "bank-riau-kepri-syariah",
+            "bank-pembangunan-daerah-riau-kepri-syariah"
+        ]
+    },
+    {
+        "slug": "bank-bpd-riau-kepri-syariah",
+        "name": "Bank BPD Riau Kepri Syariah",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "bank-bpd-sulselbar",
+        "name": "Bank BPD Sulselbar",
+        "category": "bank-logo",
+        "aliases": [
+            "126",
+            "bank-sulselbar",
+            "pdwsidja"
+        ]
+    },
+    {
+        "slug": "bank-bpd-sulteng",
+        "name": "Bank BPD Sulteng",
+        "category": "bank-logo",
+        "aliases": [
+            "134",
+            "bank-sulteng",
+            "pdwgidj1",
+            "bpd-sulteng",
+            "bpd-sulawesi-tengah"
+        ]
+    },
+    {
+        "slug": "bank-bpd-sultra",
+        "name": "Bank BPD Sultra",
+        "category": "bank-logo",
+        "aliases": [
+            "135",
+            "bank-sultra",
+            "pdwridj1",
+            "bpd-sultra",
+            "bpd-sulawesi-tenggara"
+        ]
+    },
+    {
+        "slug": "bank-bpd-sulutgo",
+        "name": "Bank BPD Sulutgo",
+        "category": "bank-logo",
+        "aliases": [
+            "127",
+            "bank-sulutgo",
+            "pdwuidj1",
+            "bpd-sulut",
+            "bpd-sulut-gorontalo"
+        ]
+    },
+    {
+        "slug": "bank-bpd-sumsel-babel",
+        "name": "Bank BPD Sumsel Babel",
+        "category": "bank-logo",
+        "aliases": [
+            "120",
+            "bank-sumsel-babel",
+            "bsspidsp",
+            "bpd-sumsel-babel",
+            "bpd-sumsel-dan-babel"
+        ]
+    },
+    {
+        "slug": "bank-bpd-sumsel-babel-alt",
+        "name": "Bank BPD Sumsel Babel (Alt)",
+        "category": "bank-logo",
+        "aliases": [
+            "bank-bpd-sumsel-babel-alt-1"
+        ]
+    },
+    {
+        "slug": "bank-bpd-sumsel-babel-alt-2",
+        "name": "Bank BPD Sumsel Babel (Alt-2)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "bank-bpd-sumut",
+        "name": "Bank BPD Sumut",
+        "category": "bank-logo",
+        "aliases": [
+            "117",
+            "bank-sumut",
+            "pdsuidj1",
+            "bank-pembangunan-daerah-sumut"
+        ]
+    },
+    {
+        "slug": "bank-bumi-artha",
+        "name": "Bank Bumi Artha",
+        "category": "bank-logo",
+        "aliases": [
+            "076",
+            "bbaiidja",
+            "bba",
+            "bank-bumi-arta"
+        ]
+    },
+    {
+        "slug": "bank-capital",
+        "name": "Bank Capital",
+        "category": "bank-logo",
+        "aliases": [
+            "054",
+            "bciaidja",
+            "bank-capital-indonesia"
+        ]
+    },
+    {
+        "slug": "bank-capital-alt",
+        "name": "Bank Capital (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "bank-dki-old",
+        "name": "Bank DKI (Old)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "bank-ganesha",
+        "name": "Bank Ganesha",
+        "category": "bank-logo",
+        "aliases": [
+            "161",
+            "gnesidja"
+        ]
+    },
+    {
+        "slug": "bank-ina",
+        "name": "Bank INA",
+        "category": "bank-logo",
+        "aliases": [
+            "513",
+            "iaptidja",
+            "bank-ina-perdana"
+        ]
+    },
+    {
+        "slug": "bank-index-selindo",
+        "name": "Bank Index Selindo",
+        "category": "bank-logo",
+        "aliases": [
+            "555",
+            "bidxidja",
+            "bank-index"
+        ]
+    },
+    {
+        "slug": "bank-index-selindo-alt",
+        "name": "Bank Index Selindo (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "bank-indonesia",
+        "name": "Bank Indonesia",
+        "category": "regulatory",
+        "aliases": [
+            "bi"
+        ]
+    },
+    {
+        "slug": "bank-jakarta",
+        "name": "Bank Jakarta",
+        "category": "bank-logo",
+        "aliases": [
+            "111",
+            "bank-dki-jakarta",
+            "bdkiidj1",
+            "bank-dki-1",
+            "bank-dki",
+            "bank-dki-alt"
+        ]
+    },
+    {
+        "slug": "bank-jasa-jakarta",
+        "name": "Bank Jasa Jakarta",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "bank-lampung",
+        "name": "Bank Lampung",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "bank-mas",
+        "name": "Bank Mas",
+        "category": "bank-logo",
+        "aliases": [
+            "bmseidja",
+            "548",
+            "bank-multiarta-sentosa"
+        ]
+    },
+    {
+        "slug": "bank-maspion",
+        "name": "Bank Maspion",
+        "category": "bank-logo",
+        "aliases": [
+            "157",
+            "masdidj1"
+        ]
+    },
+    {
+        "slug": "bank-maspion-alt",
+        "name": "Bank Maspion (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "bank-mayapada",
+        "name": "Bank Mayapada",
+        "category": "bank-logo",
+        "aliases": [
+            "097",
+            "mayaidja"
+        ]
+    },
+    {
+        "slug": "bank-mayapada-alt",
+        "name": "Bank Mayapada (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "bank-mayora",
+        "name": "Bank Mayora",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "bank-mestika-dharma",
+        "name": "Bank Mestika Dharma",
+        "category": "bank-logo",
+        "aliases": [
+            "151",
+            "medhids1",
+            "bank-mestika"
+        ]
+    },
+    {
+        "slug": "bank-nagari",
+        "name": "Bank Nagari",
+        "category": "bank-logo",
+        "aliases": [
+            "118",
+            "bank-sumbar",
+            "pdsbidj1"
+        ]
+    },
+    {
+        "slug": "bank-of-america",
+        "name": "Bank of America",
+        "category": "bank-logo",
+        "aliases": [
+            "033",
+            "bofaid2x",
+            "boa",
+            "bank-of-america-na"
+        ]
+    },
+    {
+        "slug": "bank-of-china",
+        "name": "Bank of China",
+        "category": "bank-logo",
+        "aliases": [
+            "bkchidja",
+            "069",
+            "boc-limited",
+            "bank-of-china-hong-kong-limited"
+        ]
+    },
+    {
+        "slug": "bank-of-india",
+        "name": "Bank of India",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "bank-of-india-indonesia",
+        "name": "Bank of India Indonesia",
+        "category": "bank-logo",
+        "aliases": [
+            "146",
+            "bkididja"
+        ]
+    },
+    {
+        "slug": "bank-raya",
+        "name": "Bank Raya",
+        "category": "bank-logo",
+        "aliases": [
+            "494",
+            "agtbidja",
+            "bank-raya-indonesia"
+        ]
+    },
+    {
+        "slug": "bank-resona-perdania",
+        "name": "Bank Resona Perdania",
+        "category": "bank-logo",
+        "aliases": [
+            "047",
+            "bpiaidja",
+            "bank-resona"
+        ]
+    },
+    {
+        "slug": "bank-resona-perdania-alt",
+        "name": "Bank Resona Perdania (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "bank-sahabat-sampoerna",
+        "name": "Bank Sahabat Sampoerna",
+        "category": "bank-logo",
+        "aliases": [
+            "523",
+            "sahmidja",
+            "bank-sampoerna"
+        ]
+    },
+    {
+        "slug": "bank-saqu",
+        "name": "Bank Saqu",
+        "category": "bank-logo",
+        "aliases": [
+            "jsabidj1",
+            "472",
+            "bank-saqu-indonesia"
+        ]
+    },
+    {
+        "slug": "bank-saqu-alt",
+        "name": "Bank Saqu (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "bank-smbc-indonesia",
+        "name": "Bank SMBC Indonesia",
+        "category": "bank-logo",
+        "aliases": [
+            "suniidja",
+            "213",
+            "bank-smbc"
+        ]
+    },
+    {
+        "slug": "bank-victoria",
+        "name": "Bank Victoria",
+        "category": "bank-logo",
+        "aliases": [
+            "victidj1",
+            "566",
+            "bank-victoria-international"
+        ]
+    },
+    {
+        "slug": "bank-victoria-syariah",
+        "name": "Bank Victoria Syariah",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "bank-woori-saudara",
+        "name": "Bank Woori Saudara",
+        "category": "bank-logo",
+        "aliases": [
+            "212",
+            "bsdridja",
+            "bank-woori-saudara-indonesia-1906"
+        ]
+    },
+    {
+        "slug": "bappebti",
+        "name": "BAPPEBTI",
+        "category": "regulatory",
+        "aliases": [
+            "badan-pengawas-perdagangan-berjangka-komoditi"
+        ]
+    },
+    {
+        "slug": "baznas",
+        "name": "BAZNAS",
+        "category": "donation",
+        "aliases": [
+            "badan-amil-zakat-nasional"
+        ]
+    },
+    {
+        "slug": "bca",
+        "name": "BCA",
+        "category": "bank-logo",
+        "aliases": [
+            "bank-central-asia",
+            "cenaidja",
+            "014"
+        ]
+    },
+    {
+        "slug": "bca-atm",
+        "name": "BCA ATM",
+        "category": "switching"
+    },
+    {
+        "slug": "bca-debit",
+        "name": "BCA Debit",
+        "category": "switching"
+    },
+    {
+        "slug": "bca-digital",
+        "name": "BCA Digital",
+        "category": "bank-logo",
+        "aliases": [
+            "bbluidja",
+            "501",
+            "bank-digital-bca"
+        ]
+    },
+    {
+        "slug": "bca-finance",
+        "name": "BCA Finance",
+        "category": "financing"
+    },
+    {
+        "slug": "bca-flazz",
+        "name": "BCA Flazz",
+        "category": "prepaid-card",
+        "aliases": [
+            "bca-flazz-new",
+            "flazz"
+        ]
+    },
+    {
+        "slug": "bca-flazz-alt",
+        "name": "BCA Flazz (Alt)",
+        "category": "prepaid-card"
+    },
+    {
+        "slug": "bca-flazz-old",
+        "name": "BCA Flazz (Old)",
+        "category": "prepaid-card"
+    },
+    {
+        "slug": "bca-klikpay",
+        "name": "BCA KlikPay",
+        "category": "direct-debit",
+        "aliases": [
+            "klikpay"
+        ]
+    },
+    {
+        "slug": "bca-life",
+        "name": "BCA Life",
+        "category": "insurance"
+    },
+    {
+        "slug": "bca-mobile",
+        "name": "BCA Mobile",
+        "category": "bank-app",
+        "aliases": [
+            "m-bca"
+        ]
+    },
+    {
+        "slug": "bca-syariah",
+        "name": "BCA Syariah",
+        "category": "bank-logo",
+        "aliases": [
+            "536",
+            "bsyaidja",
+            "bank-bca-syariah"
+        ]
+    },
+    {
+        "slug": "bea-cukai",
+        "name": "Bea Cukai",
+        "category": "government",
+        "aliases": [
+            "djbc"
+        ]
+    },
+    {
+        "slug": "bfi-finance",
+        "name": "BFI Finance",
+        "category": "financing"
+    },
+    {
+        "slug": "bhinneka",
+        "name": "Bhinneka",
+        "category": "e-commerce"
+    },
+    {
+        "slug": "bi-fast",
+        "name": "BI-FAST",
+        "category": "switching",
+        "aliases": [
+            "bifast"
+        ]
+    },
+    {
+        "slug": "biznet",
+        "name": "Biznet",
+        "category": "isp"
+    },
+    {
+        "slug": "biznet-home",
+        "name": "Biznet Home",
+        "category": "isp"
+    },
+    {
+        "slug": "blibli",
+        "name": "Blibli",
+        "category": "e-commerce"
+    },
+    {
+        "slug": "blu-bca",
+        "name": "blu by BCA Digital",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "bluepay",
+        "name": "Bluepay",
+        "category": "e-wallet"
+    },
+    {
+        "slug": "bnc",
+        "name": "BNC",
+        "category": "bank-logo",
+        "aliases": [
+            "490",
+            "yudbidj1",
+            "bank-neo-commerce"
+        ]
+    },
+    {
+        "slug": "bni",
+        "name": "BNI",
+        "category": "bank-logo",
+        "aliases": [
+            "bank-negara-indonesia",
+            "bninidja",
+            "009",
+            "bank-bni"
+        ]
+    },
+    {
+        "slug": "bni-mobile-banking",
+        "name": "BNI Mobile Banking",
+        "category": "bank-app",
+        "aliases": [
+            "bni-mobile"
+        ]
+    },
+    {
+        "slug": "bni-tapcash",
+        "name": "BNI TapCash",
+        "category": "prepaid-card",
+        "aliases": [
+            "tapcash"
+        ]
+    },
+    {
+        "slug": "bnp-paribas",
+        "name": "BNP Paribas",
+        "category": "bank-logo",
+        "aliases": [
+            "057",
+            "bnpaidja",
+            "bank-bnp-paribas-indonesia"
+        ]
+    },
+    {
+        "slug": "bpd",
+        "name": "BPD",
+        "category": "regulatory",
+        "aliases": [
+            "bank-pembangunan-daerah"
+        ]
+    },
+    {
+        "slug": "bpjs",
+        "name": "BPJS",
+        "category": "insurance",
+        "aliases": [
+            "bpjs-kesehatan"
+        ]
+    },
+    {
+        "slug": "bpjs-alt",
+        "name": "BPJS (Alt)",
+        "category": "insurance"
+    },
+    {
+        "slug": "bpjs-ketenagakerjaan",
+        "name": "BPJS Ketenagakerjaan",
+        "category": "insurance",
+        "aliases": [
+            "bpjamsostek",
+            "bpjs-tk"
+        ]
+    },
+    {
+        "slug": "bri",
+        "name": "BRI",
+        "category": "bank-logo",
+        "aliases": [
+            "bri-new",
+            "bank-rakyat-indonesia",
+            "brinidja",
+            "002"
+        ]
+    },
+    {
+        "slug": "bri-alt",
+        "name": "BRI (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "bri-brizzi",
+        "name": "BRI BRIZZI",
+        "category": "prepaid-card",
+        "aliases": [
+            "brizzi"
+        ]
+    },
+    {
+        "slug": "bri-brizzi-alt",
+        "name": "BRI BRIZZI (Alt)",
+        "category": "prepaid-card"
+    },
+    {
+        "slug": "bri-direct-debit",
+        "name": "BRI Direct Debit",
+        "category": "direct-debit"
+    },
+    {
+        "slug": "bri-finance",
+        "name": "BRI Finance",
+        "category": "financing"
+    },
+    {
+        "slug": "bri-insurance",
+        "name": "BRI Insurance",
+        "category": "insurance"
+    },
+    {
+        "slug": "bri-life",
+        "name": "BRI Life",
+        "category": "insurance"
+    },
+    {
+        "slug": "bri-old",
+        "name": "BRI (Old)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "bri-vertical",
+        "name": "BRI (Vertical)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "bright",
+        "name": "Bright",
+        "category": "supermarket"
+    },
+    {
+        "slug": "brimo",
+        "name": "BRImo",
+        "category": "bank-app",
+        "aliases": [
+            "bri-mobile"
+        ]
+    },
+    {
+        "slug": "brins",
+        "name": "BRINS",
+        "category": "insurance"
+    },
+    {
+        "slug": "bsi",
+        "name": "BSI",
+        "category": "bank-logo",
+        "aliases": [
+            "bank-syariah-indonesia",
+            "bsmdidja",
+            "451"
+        ]
+    },
+    {
+        "slug": "bsi-mobile",
+        "name": "BSI Mobile",
+        "category": "bank-app"
+    },
+    {
+        "slug": "bsn",
+        "name": "BSN",
+        "category": "bank-logo",
+        "aliases": [
+            "swagidj1",
+            "405",
+            "bank-syariah-nasional"
+        ]
+    },
+    {
+        "slug": "bsn-alt",
+        "name": "BSN (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "btn",
+        "name": "BTN",
+        "category": "bank-logo",
+        "aliases": [
+            "btn-new",
+            "bank-tabungan-negara",
+            "btanidja",
+            "200"
+        ]
+    },
+    {
+        "slug": "btn-alt",
+        "name": "BTN (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "btn-old",
+        "name": "BTN (Old)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "btn-syariah",
+        "name": "BTN Syariah",
+        "category": "bank-logo",
+        "aliases": [
+            "btn-syariah-new"
+        ]
+    },
+    {
+        "slug": "btn-syariah-old",
+        "name": "BTN Syariah (Old)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "btpn",
+        "name": "BTPN",
+        "category": "bank-logo",
+        "aliases": [
+            "bank-tabungan-pensiunan-nasional"
+        ]
+    },
+    {
+        "slug": "btpn-syariah",
+        "name": "BTPN Syariah",
+        "category": "bank-logo",
+        "aliases": [
+            "547",
+            "pubaidj1",
+            "bank-btpn-syariah"
+        ]
+    },
+    {
+        "slug": "bukalapak",
+        "name": "Bukalapak",
+        "category": "e-commerce",
+        "aliases": [
+            "bukalapak-new"
+        ]
+    },
+    {
+        "slug": "bukalapak-alt",
+        "name": "Bukalapak (Alt)",
+        "category": "e-commerce"
+    },
+    {
+        "slug": "bukalapak-old",
+        "name": "Bukalapak (Old)",
+        "category": "e-commerce"
+    },
+    {
+        "slug": "bumiputera",
+        "name": "Bumiputera",
+        "category": "insurance"
+    },
+    {
+        "slug": "bussan-auto-finance",
+        "name": "Bussan Auto Finance",
+        "category": "financing"
+    },
+    {
+        "slug": "by-u",
+        "name": "by.U",
+        "category": "mobile-telco",
+        "aliases": [
+            "byu"
+        ]
+    },
+    {
+        "slug": "byond-bsi",
+        "name": "BYOND by BSI",
+        "category": "bank-app",
+        "aliases": [
+            "byond"
+        ]
+    },
+    {
+        "slug": "byond-bsi-alt",
+        "name": "BYOND by BSI (Alt)",
+        "category": "bank-app"
+    },
+    {
+        "slug": "catchplay",
+        "name": "Catchplay",
+        "category": "entertainment"
+    },
+    {
+        "slug": "cbn",
+        "name": "CBN",
+        "category": "isp"
+    },
+    {
+        "slug": "ccb-indonesia",
+        "name": "CCB Indonesia",
+        "category": "bank-logo",
+        "aliases": [
+            "036",
+            "mcoridja",
+            "china-construction-bank",
+            "bank-china-construction-bank-indonesia"
+        ]
+    },
+    {
+        "slug": "ccb-indonesia-alt",
+        "name": "CCB Indonesia (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "cgv",
+        "name": "CGV",
+        "category": "entertainment"
+    },
+    {
+        "slug": "chubb",
+        "name": "CHUBB",
+        "category": "insurance"
+    },
+    {
+        "slug": "cimb-niaga",
+        "name": "CIMB Niaga",
+        "category": "bank-logo",
+        "aliases": [
+            "bank-cimb-niaga",
+            "bniaidja",
+            "022",
+            "bank-cimb"
+        ]
+    },
+    {
+        "slug": "cimb-niaga-syariah",
+        "name": "CIMB Niaga Syariah",
+        "category": "bank-logo",
+        "aliases": [
+            "synaidj1",
+            "bank-cimb-niaga-uus",
+            "bank-cimb-niaga-unit-usaha-syariah"
+        ]
+    },
+    {
+        "slug": "cinepolis",
+        "name": "Cinepolis",
+        "category": "entertainment"
+    },
+    {
+        "slug": "circle-k",
+        "name": "Circle K",
+        "category": "supermarket",
+        "aliases": [
+            "circlek"
+        ]
+    },
+    {
+        "slug": "circle-k-alt",
+        "name": "Circle K (Alt)",
+        "category": "supermarket"
+    },
+    {
+        "slug": "cirrus",
+        "name": "Cirrus",
+        "category": "card-payment"
+    },
+    {
+        "slug": "citibank",
+        "name": "Citibank",
+        "category": "bank-logo",
+        "aliases": [
+            "citiidjx",
+            "031",
+            "citibank-na"
+        ]
+    },
+    {
+        "slug": "citibank-alt",
+        "name": "Citibank (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "cititrans",
+        "name": "Cititrans",
+        "category": "transportation"
+    },
+    {
+        "slug": "commonwealth",
+        "name": "Commonwealth",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "commonwealth-life",
+        "name": "Commonwealth Life",
+        "category": "insurance"
+    },
+    {
+        "slug": "contactless",
+        "name": "Contactless",
+        "category": "card-payment"
+    },
+    {
+        "slug": "contactless-alt",
+        "name": "Contactless (Alt)",
+        "category": "card-payment"
+    },
+    {
+        "slug": "credit-suisse",
+        "name": "Credit Suisse",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "ctbc-bank",
+        "name": "CTBC Bank",
+        "category": "bank-logo",
+        "aliases": [
+            "ctcbidja",
+            "949",
+            "ctbc-indonesia",
+            "bank-ctbc-indonesia"
+        ]
+    },
+    {
+        "slug": "daihatsu-financial-service",
+        "name": "Daihatsu Financial Service",
+        "category": "financing"
+    },
+    {
+        "slug": "dakota-cargo",
+        "name": "Dakota Cargo",
+        "category": "logistic"
+    },
+    {
+        "slug": "dakota-logistik",
+        "name": "Dakota Logistik",
+        "category": "logistic"
+    },
+    {
+        "slug": "damri",
+        "name": "DAMRI",
+        "category": "transportation"
+    },
+    {
+        "slug": "dan-plus-dan",
+        "name": "Dan+Dan",
+        "category": "supermarket"
+    },
+    {
+        "slug": "dana",
+        "name": "DANA",
+        "category": "e-wallet"
+    },
+    {
+        "slug": "danamon",
+        "name": "Danamon",
+        "category": "bank-logo",
+        "aliases": [
+            "bank-danamon",
+            "bdinidja",
+            "011",
+            "bank-danamon-indonesia"
+        ]
+    },
+    {
+        "slug": "danamon-mufg",
+        "name": "Danamon (MUFG)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "danamon-syariah",
+        "name": "Danamon Syariah",
+        "category": "bank-logo",
+        "aliases": [
+            "sybdidj1",
+            "bank-danamon-uus",
+            "bank-danamon-indonesia-unit-usaha-syariah"
+        ]
+    },
+    {
+        "slug": "daytrans",
+        "name": "DayTrans",
+        "category": "transportation"
+    },
+    {
+        "slug": "dbs",
+        "name": "DBS",
+        "category": "bank-logo",
+        "aliases": [
+            "dbsbidja",
+            "046",
+            "bank-dbs-indonesia"
+        ]
+    },
+    {
+        "slug": "dbs-paylah",
+        "name": "DBS Paylah",
+        "category": "miscellaneous",
+        "aliases": [
+            "paylah"
+        ]
+    },
+    {
+        "slug": "deutsche-bank",
+        "name": "Deutsche Bank",
+        "category": "bank-logo",
+        "aliases": [
+            "deutidja",
+            "067",
+            "deutsche-bank-ag"
+        ]
+    },
+    {
+        "slug": "dhl-express",
+        "name": "DHL Express",
+        "category": "logistic",
+        "aliases": [
+            "dhl"
+        ]
+    },
+    {
+        "slug": "digibank",
+        "name": "Digibank",
+        "category": "bank-app",
+        "aliases": [
+            "dbs-digibank"
+        ]
+    },
+    {
+        "slug": "digibank-alt",
+        "name": "Digibank (Alt)",
+        "category": "bank-app"
+    },
+    {
+        "slug": "dipay",
+        "name": "Dipay",
+        "category": "e-wallet"
+    },
+    {
+        "slug": "discover",
+        "name": "Discover",
+        "category": "card-payment"
+    },
+    {
+        "slug": "discover-alt",
+        "name": "Discover (Alt)",
+        "category": "card-payment"
+    },
+    {
+        "slug": "disney-plus",
+        "name": "Disney+",
+        "category": "entertainment",
+        "aliases": [
+            "disneyplus"
+        ]
+    },
+    {
+        "slug": "disney-plus-hotstar",
+        "name": "Disney+ Hotstar",
+        "category": "entertainment",
+        "aliases": [
+            "hotstar"
+        ]
+    },
+    {
+        "slug": "djp-online",
+        "name": "DJP Online",
+        "category": "government",
+        "aliases": [
+            "djp"
+        ]
+    },
+    {
+        "slug": "djp-online-alt",
+        "name": "DJP Online (Alt)",
+        "category": "government"
+    },
+    {
+        "slug": "doku",
+        "name": "DOKU",
+        "category": "e-wallet"
+    },
+    {
+        "slug": "dompet-dhuafa",
+        "name": "Dompet Dhuafa",
+        "category": "donation"
+    },
+    {
+        "slug": "dompet-dhuafa-alt",
+        "name": "Dompet Dhuafa (Alt)",
+        "category": "donation"
+    },
+    {
+        "slug": "duitnow",
+        "name": "DuitNow",
+        "category": "qr-payment"
+    },
+    {
+        "slug": "duitnow-qr",
+        "name": "DuitNow QR",
+        "category": "qr-payment"
+    },
+    {
+        "slug": "dutamoney",
+        "name": "Dutamoney",
+        "category": "e-wallet"
+    },
+    {
+        "slug": "e-toll-card",
+        "name": "e-Toll Card",
+        "category": "prepaid-card",
+        "aliases": [
+            "etoll",
+            "e-toll"
+        ]
+    },
+    {
+        "slug": "ea-play",
+        "name": "EA Play",
+        "category": "game"
+    },
+    {
+        "slug": "ea-play-alt",
+        "name": "EA Play (Alt)",
+        "category": "game"
+    },
+    {
+        "slug": "ekonomi-syariah",
+        "name": "Ekonomi Syariah",
+        "category": "regulatory"
+    },
+    {
+        "slug": "ekonomi-syariah-alt",
+        "name": "Ekonomi Syariah (Alt)",
+        "category": "regulatory"
+    },
+    {
+        "slug": "ems",
+        "name": "EMS",
+        "category": "logistic"
+    },
+    {
+        "slug": "epic-games",
+        "name": "Epic Games",
+        "category": "game"
+    },
+    {
+        "slug": "epic-games-store",
+        "name": "Epic Games Store",
+        "category": "game",
+        "aliases": [
+            "epic-store"
+        ]
+    },
+    {
+        "slug": "esl-express",
+        "name": "ESL Express",
+        "category": "logistic"
+    },
+    {
+        "slug": "espay",
+        "name": "Espay",
+        "category": "payment-gateway"
+    },
+    {
+        "slug": "family-mart",
+        "name": "Family Mart",
+        "category": "supermarket",
+        "aliases": [
+            "familymart"
+        ]
+    },
+    {
+        "slug": "fedex-express",
+        "name": "FedEx Express",
+        "category": "logistic",
+        "aliases": [
+            "fedex"
+        ]
+    },
+    {
+        "slug": "fif-astra",
+        "name": "FIF Astra",
+        "category": "financing",
+        "aliases": [
+            "fif"
+        ]
+    },
+    {
+        "slug": "finmas",
+        "name": "Finmas",
+        "category": "financing"
+    },
+    {
+        "slug": "finpay",
+        "name": "Finpay",
+        "category": "payment-gateway"
+    },
+    {
+        "slug": "first-logistic",
+        "name": "First Logistic",
+        "category": "logistic"
+    },
+    {
+        "slug": "first-media",
+        "name": "First Media",
+        "category": "isp"
+    },
+    {
+        "slug": "flip",
+        "name": "Flip",
+        "category": "remittance"
+    },
+    {
+        "slug": "fwd",
+        "name": "FWD",
+        "category": "insurance"
+    },
+    {
+        "slug": "generali",
+        "name": "Generali",
+        "category": "insurance"
+    },
+    {
+        "slug": "giant",
+        "name": "Giant",
+        "category": "supermarket"
+    },
+    {
+        "slug": "google-pay",
+        "name": "Google Pay",
+        "category": "miscellaneous",
+        "aliases": [
+            "gpay",
+            "googlepay"
+        ]
+    },
+    {
+        "slug": "google-play",
+        "name": "Google Play",
+        "category": "game",
+        "aliases": [
+            "play-store",
+            "google-play-store"
+        ]
+    },
+    {
+        "slug": "google-play-alt",
+        "name": "Google Play (Alt)",
+        "category": "game"
+    },
+    {
+        "slug": "gopay",
+        "name": "GoPay",
+        "category": "e-wallet",
+        "aliases": [
+            "go-pay"
+        ]
+    },
+    {
+        "slug": "gopay-alt",
+        "name": "GoPay (Alt)",
+        "category": "e-wallet"
+    },
+    {
+        "slug": "gopaylater",
+        "name": "GoPay Later",
+        "category": "financing",
+        "aliases": [
+            "gopay-later"
+        ]
+    },
+    {
+        "slug": "gpn",
+        "name": "GPN",
+        "category": "card-payment",
+        "aliases": [
+            "gerbang-pembayaran-nasional"
+        ]
+    },
+    {
+        "slug": "grab-pay",
+        "name": "Grab Pay",
+        "category": "miscellaneous",
+        "aliases": [
+            "grabpay"
+        ]
+    },
+    {
+        "slug": "hbo-go",
+        "name": "HBO GO",
+        "category": "entertainment",
+        "aliases": [
+            "hbogo"
+        ]
+    },
+    {
+        "slug": "hero",
+        "name": "Hero",
+        "category": "supermarket"
+    },
+    {
+        "slug": "hibank",
+        "name": "hibank",
+        "category": "bank-logo",
+        "aliases": [
+            "hbniidja",
+            "553",
+            "bank-hibank-indonesia"
+        ]
+    },
+    {
+        "slug": "home-credit",
+        "name": "Home Credit",
+        "category": "financing"
+    },
+    {
+        "slug": "hoox",
+        "name": "HOOX",
+        "category": "entertainment"
+    },
+    {
+        "slug": "hsbc",
+        "name": "HSBC",
+        "category": "bank-logo",
+        "aliases": [
+            "hsbcidja",
+            "087",
+            "bank-hsbc-indonesia"
+        ]
+    },
+    {
+        "slug": "hypermart",
+        "name": "Hypermart",
+        "category": "supermarket"
+    },
+    {
+        "slug": "i-saku",
+        "name": "i.saku",
+        "category": "e-wallet",
+        "aliases": [
+            "isaku"
+        ]
+    },
+    {
+        "slug": "ibk-bank",
+        "name": "IBK Bank",
+        "category": "bank-logo",
+        "aliases": [
+            "ibkoidja",
+            "945",
+            "bank-ibk",
+            "bank-ibk-indonesia"
+        ]
+    },
+    {
+        "slug": "icbc",
+        "name": "ICBC",
+        "category": "bank-logo",
+        "aliases": [
+            "164",
+            "icbkidja",
+            "bank-icbc",
+            "bank-icbc-indonesia"
+        ]
+    },
+    {
+        "slug": "icbc-alt",
+        "name": "ICBC (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "iconnet",
+        "name": "Iconnet",
+        "category": "isp"
+    },
+    {
+        "slug": "id-express",
+        "name": "ID Express",
+        "category": "logistic",
+        "aliases": [
+            "idexpress"
+        ]
+    },
+    {
+        "slug": "im3",
+        "name": "IM3",
+        "category": "mobile-telco"
+    },
+    {
+        "slug": "indah-cargo",
+        "name": "Indah Cargo",
+        "category": "logistic"
+    },
+    {
+        "slug": "indihome",
+        "name": "IndiHome",
+        "category": "isp",
+        "aliases": [
+            "indihome-new",
+            "indi-home"
+        ]
+    },
+    {
+        "slug": "indihome-old",
+        "name": "IndiHome (Old)",
+        "category": "isp"
+    },
+    {
+        "slug": "indodana",
+        "name": "Indodana",
+        "category": "financing"
+    },
+    {
+        "slug": "indogrosir",
+        "name": "Indogrosir",
+        "category": "supermarket"
+    },
+    {
+        "slug": "indomaret",
+        "name": "Indomaret",
+        "category": "supermarket"
+    },
+    {
+        "slug": "indosat-hifi",
+        "name": "Indosat Hifi",
+        "category": "isp"
+    },
+    {
+        "slug": "indosat-m2",
+        "name": "Indosat M2",
+        "category": "isp"
+    },
+    {
+        "slug": "ing-bank",
+        "name": "ING Bank",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "inklusi-keuangan",
+        "name": "Inklusi Keuangan",
+        "category": "regulatory"
+    },
+    {
+        "slug": "interlink",
+        "name": "Interlink",
+        "category": "miscellaneous"
+    },
+    {
+        "slug": "ipay88",
+        "name": "ipay88",
+        "category": "payment-gateway",
+        "aliases": [
+            "i-pay88"
+        ]
+    },
+    {
+        "slug": "j-and-t-cargo",
+        "name": "J&T Cargo",
+        "category": "logistic",
+        "aliases": [
+            "jnt-cargo"
+        ]
+    },
+    {
+        "slug": "j-and-t-express",
+        "name": "J&T Express",
+        "category": "logistic",
+        "aliases": [
+            "jnt",
+            "jnt-express"
+        ]
+    },
+    {
+        "slug": "j-trust-bank",
+        "name": "J Trust Bank",
+        "category": "bank-logo",
+        "aliases": [
+            "095",
+            "cictidja",
+            "bank-jtrust",
+            "bank-jtrust-indonesia"
+        ]
+    },
+    {
+        "slug": "jago",
+        "name": "Jago",
+        "category": "bank-logo",
+        "aliases": [
+            "jagbidja",
+            "542",
+            "bank-jago"
+        ]
+    },
+    {
+        "slug": "jago-app",
+        "name": "Jago",
+        "category": "bank-app"
+    },
+    {
+        "slug": "jakcard",
+        "name": "Jakcard",
+        "category": "prepaid-card",
+        "aliases": [
+            "jak-card"
+        ]
+    },
+    {
+        "slug": "jaklingko",
+        "name": "JakLingko",
+        "category": "transportation",
+        "aliases": [
+            "jak-lingko"
+        ]
+    },
+    {
+        "slug": "jakone-mobile",
+        "name": "JakOne Mobile",
+        "category": "bank-app",
+        "aliases": [
+            "jakone"
+        ]
+    },
+    {
+        "slug": "jakone-pay",
+        "name": "JakOne Pay",
+        "category": "e-wallet",
+        "aliases": [
+            "jakonepay"
+        ]
+    },
+    {
+        "slug": "jalin",
+        "name": "Jalin",
+        "category": "switching"
+    },
+    {
+        "slug": "jcb",
+        "name": "JCB",
+        "category": "card-payment"
+    },
+    {
+        "slug": "jenius",
+        "name": "Jenius",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "jenius-app",
+        "name": "Jenius",
+        "category": "bank-app"
+    },
+    {
+        "slug": "jenius-pay",
+        "name": "Jenius Pay",
+        "category": "direct-debit"
+    },
+    {
+        "slug": "jne",
+        "name": "JNE",
+        "category": "logistic",
+        "aliases": [
+            "jalur-nugraha-ekakurir"
+        ]
+    },
+    {
+        "slug": "jne-alt",
+        "name": "JNE (Alt)",
+        "category": "logistic"
+    },
+    {
+        "slug": "joox",
+        "name": "JOOX",
+        "category": "entertainment"
+    },
+    {
+        "slug": "jp-morgan-chase",
+        "name": "JP Morgan Chase",
+        "category": "bank-logo",
+        "aliases": [
+            "032",
+            "chasidjx",
+            "jpmorgan-bank",
+            "jpmorgan-chase-bank-na"
+        ]
+    },
+    {
+        "slug": "kai",
+        "name": "KAI",
+        "category": "transportation",
+        "aliases": [
+            "kereta-api-indonesia"
+        ]
+    },
+    {
+        "slug": "kai-bandara",
+        "name": "KAI Bandara",
+        "category": "transportation",
+        "aliases": [
+            "railink"
+        ]
+    },
+    {
+        "slug": "kai-commuter",
+        "name": "KAI Commuter",
+        "category": "transportation",
+        "aliases": [
+            "kai-commuter-new",
+            "krl",
+            "commuterline"
+        ]
+    },
+    {
+        "slug": "kai-commuter-old",
+        "name": "KAI Commuter (Old)",
+        "category": "transportation"
+    },
+    {
+        "slug": "kai-logistik",
+        "name": "KAI Logistik",
+        "category": "logistic"
+    },
+    {
+        "slug": "kartu-as",
+        "name": "Kartu As",
+        "category": "mobile-telco",
+        "aliases": [
+            "kartuas"
+        ]
+    },
+    {
+        "slug": "kartu-halo",
+        "name": "Kartu Halo",
+        "category": "mobile-telco",
+        "aliases": [
+            "kartuhalo"
+        ]
+    },
+    {
+        "slug": "kaspro",
+        "name": "Kaspro",
+        "category": "e-wallet"
+    },
+    {
+        "slug": "kb-bukopin",
+        "name": "KB Bukopin",
+        "category": "bank-logo",
+        "aliases": [
+            "bbukidja",
+            "441",
+            "kb-indonesia",
+            "bank-kb-indonesia"
+        ]
+    },
+    {
+        "slug": "kb-bukopin-alt",
+        "name": "KB Bukopin (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "kb-bukopin-syariah",
+        "name": "KB Bukopin Syariah",
+        "category": "bank-logo",
+        "aliases": [
+            "521",
+            "sdobidj1",
+            "kbbs",
+            "bank-kb-bukopin-syariah"
+        ]
+    },
+    {
+        "slug": "keb-hana-bank",
+        "name": "KEB Hana Bank",
+        "category": "bank-logo",
+        "aliases": [
+            "hnbnidja",
+            "484",
+            "bank-keb-hana",
+            "bank-keb-hana-indonesia"
+        ]
+    },
+    {
+        "slug": "keb-hana-bank-alt",
+        "name": "KEB Hana Bank (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "kemenkeu",
+        "name": "Kemenkeu",
+        "category": "government",
+        "aliases": [
+            "kementerian-keuangan"
+        ]
+    },
+    {
+        "slug": "khqr",
+        "name": "KHQR",
+        "category": "qr-payment"
+    },
+    {
+        "slug": "kitabisa",
+        "name": "Kitabisa",
+        "category": "donation"
+    },
+    {
+        "slug": "kitabisa-alt",
+        "name": "Kitabisa (Alt)",
+        "category": "donation"
+    },
+    {
+        "slug": "kominfo",
+        "name": "KOMINFO",
+        "category": "regulatory",
+        "aliases": [
+            "komdigi",
+            "kementerian-komunikasi-dan-informatika"
+        ]
+    },
+    {
+        "slug": "korlantas-polri",
+        "name": "Korlantas Polri",
+        "category": "government",
+        "aliases": [
+            "korlantas"
+        ]
+    },
+    {
+        "slug": "kredit-pintar",
+        "name": "Kredit Pintar",
+        "category": "financing"
+    },
+    {
+        "slug": "kreditplus",
+        "name": "KreditPlus",
+        "category": "financing"
+    },
+    {
+        "slug": "kredivo",
+        "name": "Kredivo",
+        "category": "financing"
+    },
+    {
+        "slug": "krom",
+        "name": "Krom",
+        "category": "bank-logo",
+        "aliases": [
+            "459",
+            "bustidj1",
+            "krom-bank-indonesia"
+        ]
+    },
+    {
+        "slug": "lalamove",
+        "name": "Lalamove",
+        "category": "logistic"
+    },
+    {
+        "slug": "langitmusik",
+        "name": "Langitmusik",
+        "category": "entertainment"
+    },
+    {
+        "slug": "lao-qr",
+        "name": "LAO QR",
+        "category": "qr-payment"
+    },
+    {
+        "slug": "lawson",
+        "name": "Lawson",
+        "category": "supermarket"
+    },
+    {
+        "slug": "lazada",
+        "name": "Lazada",
+        "category": "e-commerce"
+    },
+    {
+        "slug": "lazada-express",
+        "name": "Lazada Express",
+        "category": "logistic"
+    },
+    {
+        "slug": "lexus-financial-service",
+        "name": "Lexus Financial Service",
+        "category": "financing"
+    },
+    {
+        "slug": "lexus-financial-service-alt",
+        "name": "Lexus Financial Service (Alt)",
+        "category": "financing",
+        "aliases": [
+            "lexus-financial-service-1"
+        ]
+    },
+    {
+        "slug": "line-bank",
+        "name": "LINE Bank",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "line-bank-alt",
+        "name": "LINE Bank (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "line-pay",
+        "name": "LINE Pay",
+        "category": "miscellaneous",
+        "aliases": [
+            "linepay"
+        ]
+    },
+    {
+        "slug": "line-pay-alt",
+        "name": "LINE Pay (Alt)",
+        "category": "miscellaneous"
+    },
+    {
+        "slug": "link",
+        "name": "Link",
+        "category": "switching",
+        "aliases": [
+            "link-new"
+        ]
+    },
+    {
+        "slug": "link-alt",
+        "name": "Link (Alt)",
+        "category": "switching",
+        "aliases": [
+            "link-new-alt"
+        ]
+    },
+    {
+        "slug": "link-old",
+        "name": "Link (Old)",
+        "category": "switching"
+    },
+    {
+        "slug": "linkaja",
+        "name": "LinkAja",
+        "category": "e-wallet",
+        "aliases": [
+            "link-aja"
+        ]
+    },
+    {
+        "slug": "lion-parcel",
+        "name": "Lion Parcel",
+        "category": "logistic",
+        "aliases": [
+            "lionparcel"
+        ]
+    },
+    {
+        "slug": "live-on",
+        "name": "Live.On",
+        "category": "mobile-telco"
+    },
+    {
+        "slug": "lotte",
+        "name": "Lotte",
+        "category": "supermarket"
+    },
+    {
+        "slug": "lotte-grosir",
+        "name": "Lotte Grosir",
+        "category": "supermarket"
+    },
+    {
+        "slug": "lotte-mart",
+        "name": "Lotte Mart",
+        "category": "supermarket",
+        "aliases": [
+            "lottemart"
+        ]
+    },
+    {
+        "slug": "lps",
+        "name": "LPS",
+        "category": "regulatory",
+        "aliases": [
+            "lembaga-penjamin-simpanan"
+        ]
+    },
+    {
+        "slug": "lrt-jakarta",
+        "name": "LRT Jakarta",
+        "category": "transportation",
+        "aliases": [
+            "lrt"
+        ]
+    },
+    {
+        "slug": "maestro",
+        "name": "Maestro",
+        "category": "card-payment"
+    },
+    {
+        "slug": "mandiri",
+        "name": "Mandiri",
+        "category": "bank-logo",
+        "aliases": [
+            "bank-mandiri",
+            "bmriidja",
+            "008"
+        ]
+    },
+    {
+        "slug": "mandiri-e-cash",
+        "name": "Mandiri E-Cash",
+        "category": "direct-debit",
+        "aliases": [
+            "mandiri-ecash"
+        ]
+    },
+    {
+        "slug": "mandiri-e-money",
+        "name": "Mandiri e-money",
+        "category": "prepaid-card",
+        "aliases": [
+            "mandiri-emoney",
+            "emoney"
+        ]
+    },
+    {
+        "slug": "mandiri-inhealth",
+        "name": "Mandiri Inhealth",
+        "category": "insurance"
+    },
+    {
+        "slug": "mandiri-livin",
+        "name": "Livin' by Mandiri",
+        "category": "bank-app",
+        "aliases": [
+            "mandiri-livin-new",
+            "livin",
+            "livin-by-mandiri"
+        ]
+    },
+    {
+        "slug": "mandiri-livin-old",
+        "name": "Livin' by Mandiri (Old)",
+        "category": "bank-app"
+    },
+    {
+        "slug": "mandiri-taspen",
+        "name": "Mandiri Taspen",
+        "category": "bank-logo",
+        "aliases": [
+            "sihbidj1",
+            "564",
+            "bank-mandiri-taspen"
+        ]
+    },
+    {
+        "slug": "manulife",
+        "name": "Manulife",
+        "category": "insurance"
+    },
+    {
+        "slug": "manulife-alt",
+        "name": "Manulife (Alt)",
+        "category": "insurance"
+    },
+    {
+        "slug": "mastercard",
+        "name": "Mastercard",
+        "category": "card-payment"
+    },
+    {
+        "slug": "mastercard-black",
+        "name": "Mastercard Black",
+        "category": "card-payment"
+    },
+    {
+        "slug": "mastercard-contactless",
+        "name": "Mastercard Contactless",
+        "category": "card-payment"
+    },
+    {
+        "slug": "mastercard-contactless-alt",
+        "name": "Mastercard Contactless (Alt)",
+        "category": "card-payment"
+    },
+    {
+        "slug": "mastercard-debit",
+        "name": "Mastercard Debit",
+        "category": "card-payment"
+    },
+    {
+        "slug": "mastercard-debit-alt",
+        "name": "Mastercard Debit (Alt)",
+        "category": "card-payment"
+    },
+    {
+        "slug": "mastercard-securecode",
+        "name": "Mastercard SecureCode",
+        "category": "card-payment",
+        "aliases": [
+            "mastercard-securecode-new",
+            "securecode"
+        ]
+    },
+    {
+        "slug": "mastercard-securecode-old",
+        "name": "Mastercard SecureCode (Old)",
+        "category": "card-payment"
+    },
+    {
+        "slug": "masterpass",
+        "name": "Masterpass",
+        "category": "card-payment"
+    },
+    {
+        "slug": "masterpass-alt",
+        "name": "Masterpass (Alt)",
+        "category": "card-payment"
+    },
+    {
+        "slug": "maxstream",
+        "name": "Maxstream",
+        "category": "entertainment"
+    },
+    {
+        "slug": "maybank",
+        "name": "Maybank",
+        "category": "bank-logo",
+        "aliases": [
+            "016",
+            "ibbkidja",
+            "bank-maybank",
+            "bank-maybank-indonesia"
+        ]
+    },
+    {
+        "slug": "mega",
+        "name": "Mega",
+        "category": "bank-logo",
+        "aliases": [
+            "bank-mega",
+            "megaidja",
+            "426"
+        ]
+    },
+    {
+        "slug": "mega-syariah",
+        "name": "Mega Syariah",
+        "category": "bank-logo",
+        "aliases": [
+            "506",
+            "butgidj1",
+            "bank-mega-syariah"
+        ]
+    },
+    {
+        "slug": "melsa",
+        "name": "Melsa",
+        "category": "isp"
+    },
+    {
+        "slug": "mentari-ooredoo",
+        "name": "Mentari Ooredoo",
+        "category": "mobile-telco",
+        "aliases": [
+            "mentari"
+        ]
+    },
+    {
+        "slug": "meps",
+        "name": "MEPS",
+        "category": "switching"
+    },
+    {
+        "slug": "midtrans",
+        "name": "Midtrans",
+        "category": "payment-gateway"
+    },
+    {
+        "slug": "mizuho-bank",
+        "name": "Mizuho Bank",
+        "category": "bank-logo",
+        "aliases": [
+            "mhccidja",
+            "048",
+            "bank-mizuho",
+            "bank-mizuho-indonesia"
+        ]
+    },
+    {
+        "slug": "mnc",
+        "name": "MNC",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "mnc-bank",
+        "name": "MNC Bank",
+        "category": "bank-logo",
+        "aliases": [
+            "485",
+            "bumiidja",
+            "bank-mnc-internasional"
+        ]
+    },
+    {
+        "slug": "mnc-vision",
+        "name": "MNC Vision",
+        "category": "entertainment"
+    },
+    {
+        "slug": "moneygram",
+        "name": "MoneyGram",
+        "category": "remittance"
+    },
+    {
+        "slug": "motion-banking",
+        "name": "Motion Banking",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "motion-banking-alt",
+        "name": "Motion Banking (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "motion-pay",
+        "name": "Motion Pay",
+        "category": "e-wallet",
+        "aliases": [
+            "motionpay"
+        ]
+    },
+    {
+        "slug": "mrt-jakarta",
+        "name": "MRT Jakarta",
+        "category": "transportation",
+        "aliases": [
+            "mrt"
+        ]
+    },
+    {
+        "slug": "mtix",
+        "name": "m.tix",
+        "category": "entertainment",
+        "aliases": [
+            "m-tix"
+        ]
+    },
+    {
+        "slug": "muamalat",
+        "name": "Bank Muamalat",
+        "category": "bank-logo",
+        "aliases": [
+            "bank-muamalat",
+            "mualamat",
+            "muabidja",
+            "147",
+            "bank-muamalat-indonesia"
+        ]
+    },
+    {
+        "slug": "mufg",
+        "name": "MUFG",
+        "category": "bank-logo",
+        "aliases": [
+            "042",
+            "botkidjx",
+            "mufg-bank-ltd"
+        ]
+    },
+    {
+        "slug": "mufg-alt",
+        "name": "MUFG (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "my-nintendo",
+        "name": "My Nintendo",
+        "category": "game"
+    },
+    {
+        "slug": "myrepublic",
+        "name": "MyRepublic",
+        "category": "isp"
+    },
+    {
+        "slug": "nanobank-syariah",
+        "name": "Nanobank Syariah",
+        "category": "bank-logo",
+        "aliases": [
+            "nanoidj1",
+            "253",
+            "nano-bank",
+            "bank-nano-syariah"
+        ]
+    },
+    {
+        "slug": "nanobank-syariah-alt",
+        "name": "Nanobank Syariah (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "ncs",
+        "name": "NCS",
+        "category": "logistic"
+    },
+    {
+        "slug": "neobank",
+        "name": "Neobank",
+        "category": "bank-app"
+    },
+    {
+        "slug": "netflix",
+        "name": "Netflix",
+        "category": "entertainment"
+    },
+    {
+        "slug": "netflix-alt",
+        "name": "Netflix (Alt)",
+        "category": "entertainment"
+    },
+    {
+        "slug": "nets",
+        "name": "NETS",
+        "category": "miscellaneous"
+    },
+    {
+        "slug": "netzme",
+        "name": "Netzme",
+        "category": "e-wallet"
+    },
+    {
+        "slug": "nex-parabola",
+        "name": "Nex Parabola",
+        "category": "entertainment"
+    },
+    {
+        "slug": "nickelodeon",
+        "name": "Nickelodeon",
+        "category": "entertainment"
+    },
+    {
+        "slug": "ninja-xpress",
+        "name": "Ninja Xpress",
+        "category": "logistic",
+        "aliases": [
+            "ninja-express"
+        ]
+    },
+    {
+        "slug": "nintendo-online",
+        "name": "Nintendo Online",
+        "category": "game"
+    },
+    {
+        "slug": "nobu",
+        "name": "NOBU",
+        "category": "bank-logo",
+        "aliases": [
+            "503",
+            "lfibidj1",
+            "bank-nationalnobu"
+        ]
+    },
+    {
+        "slug": "ocbc-nisp",
+        "name": "OCBC NISP",
+        "category": "bank-logo",
+        "aliases": [
+            "nispidja",
+            "028",
+            "bank-ocbc-nisp"
+        ]
+    },
+    {
+        "slug": "ocbc-pay-anyone",
+        "name": "OCBC Pay Anyone",
+        "category": "miscellaneous",
+        "aliases": [
+            "pay-anyone"
+        ]
+    },
+    {
+        "slug": "octo-clicks",
+        "name": "OCTO Clicks",
+        "category": "bank-app",
+        "aliases": [
+            "octo"
+        ]
+    },
+    {
+        "slug": "ojk",
+        "name": "OJK",
+        "category": "regulatory",
+        "aliases": [
+            "otoritas-jasa-keuangan"
+        ]
+    },
+    {
+        "slug": "ok-bank",
+        "name": "OK Bank",
+        "category": "bank-logo",
+        "aliases": [
+            "lmanidj1",
+            "526",
+            "bank-oke",
+            "bank-oke-indonesia"
+        ]
+    },
+    {
+        "slug": "oneklik",
+        "name": "OneKlik",
+        "category": "direct-debit",
+        "aliases": [
+            "one-klik"
+        ]
+    },
+    {
+        "slug": "otto-pay",
+        "name": "OTTO Pay",
+        "category": "e-wallet",
+        "aliases": [
+            "ottopay"
+        ]
+    },
+    {
+        "slug": "ovo",
+        "name": "OVO",
+        "category": "e-wallet",
+        "aliases": [
+            "ovo-new"
+        ]
+    },
+    {
+        "slug": "ovo-alt",
+        "name": "OVO (Alt)",
+        "category": "e-wallet",
+        "aliases": [
+            "ovo-new-alt"
+        ]
+    },
+    {
+        "slug": "ovo-old",
+        "name": "OVO (Old)",
+        "category": "e-wallet"
+    },
+    {
+        "slug": "ovo-old-alt",
+        "name": "OVO (Old Alt)",
+        "category": "e-wallet"
+    },
+    {
+        "slug": "oxygen-id",
+        "name": "Oxygen.id",
+        "category": "isp"
+    },
+    {
+        "slug": "oxygen-id-home",
+        "name": "Oxygen.id Home",
+        "category": "isp"
+    },
+    {
+        "slug": "pam-jaya",
+        "name": "PAM Jaya",
+        "category": "utilities",
+        "aliases": [
+            "pam-jaya-new"
+        ]
+    },
+    {
+        "slug": "pam-jaya-old",
+        "name": "PAM Jaya (Old)",
+        "category": "utilities"
+    },
+    {
+        "slug": "pandu-logistics",
+        "name": "Pandu Logistics",
+        "category": "logistic"
+    },
+    {
+        "slug": "panin-dubai-syariah",
+        "name": "Panin Dubai Syariah",
+        "category": "bank-logo",
+        "aliases": [
+            "517",
+            "arfaidj1",
+            "bank-panin-dubai-syariah"
+        ]
+    },
+    {
+        "slug": "paninbank",
+        "name": "PaninBank",
+        "category": "bank-logo",
+        "aliases": [
+            "pinbidja",
+            "019",
+            "panin-bank"
+        ]
+    },
+    {
+        "slug": "paydia",
+        "name": "Paydia",
+        "category": "e-wallet"
+    },
+    {
+        "slug": "payoneer",
+        "name": "Payoneer",
+        "category": "remittance"
+    },
+    {
+        "slug": "paypal",
+        "name": "PayPal",
+        "category": "remittance",
+        "aliases": [
+            "paypal-new"
+        ]
+    },
+    {
+        "slug": "paypal-old",
+        "name": "PayPal (Old)",
+        "category": "remittance"
+    },
+    {
+        "slug": "paytren",
+        "name": "Paytren",
+        "category": "e-wallet"
+    },
+    {
+        "slug": "pcp-express",
+        "name": "PCP Express",
+        "category": "logistic"
+    },
+    {
+        "slug": "pdam",
+        "name": "PDAM",
+        "category": "utilities",
+        "aliases": [
+            "perusahaan-daerah-air-minum"
+        ]
+    },
+    {
+        "slug": "pdam-kota-surabaya",
+        "name": "PDAM Kota Surabaya",
+        "category": "utilities"
+    },
+    {
+        "slug": "pegadaian",
+        "name": "Pegadaian",
+        "category": "financing"
+    },
+    {
+        "slug": "perbankan-syariah-ib",
+        "name": "Perbankan Syariah (IB)",
+        "category": "regulatory"
+    },
+    {
+        "slug": "permata",
+        "name": "Permata Bank",
+        "category": "bank-logo",
+        "aliases": [
+            "permata-bank-new",
+            "bank-permata",
+            "bbbaidja",
+            "013"
+        ]
+    },
+    {
+        "slug": "permata-alt",
+        "name": "Permata Bank (Alt)",
+        "category": "bank-logo",
+        "aliases": [
+            "permata-bank-alt"
+        ]
+    },
+    {
+        "slug": "permata-old",
+        "name": "Permata Bank (Old)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "pgn",
+        "name": "PGN",
+        "category": "utilities",
+        "aliases": [
+            "perusahaan-gas-negara"
+        ]
+    },
+    {
+        "slug": "playstation-plus",
+        "name": "PlayStation Plus",
+        "category": "game",
+        "aliases": [
+            "ps-plus"
+        ]
+    },
+    {
+        "slug": "playstation-store",
+        "name": "PlayStation Store",
+        "category": "game",
+        "aliases": [
+            "ps-store"
+        ]
+    },
+    {
+        "slug": "pln",
+        "name": "PLN",
+        "category": "utilities",
+        "aliases": [
+            "perusahaan-listrik-negara"
+        ]
+    },
+    {
+        "slug": "pos-indonesia",
+        "name": "Pos Indonesia",
+        "category": "logistic",
+        "aliases": [
+            "pos-indonesia-new",
+            "posindo"
+        ]
+    },
+    {
+        "slug": "pos-indonesia-old",
+        "name": "Pos Indonesia (Old)",
+        "category": "logistic"
+    },
+    {
+        "slug": "pospay",
+        "name": "Pospay",
+        "category": "e-wallet",
+        "aliases": [
+            "pos-pay"
+        ]
+    },
+    {
+        "slug": "prima",
+        "name": "PRIMA",
+        "category": "switching"
+    },
+    {
+        "slug": "prima-bank",
+        "name": "PRIMA Bank",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "prima-debit",
+        "name": "PRIMA Debit",
+        "category": "switching"
+    },
+    {
+        "slug": "prime-video",
+        "name": "Prime Video",
+        "category": "entertainment",
+        "aliases": [
+            "amazon-prime-video"
+        ]
+    },
+    {
+        "slug": "prismalink",
+        "name": "PrismaLink",
+        "category": "payment-gateway",
+        "aliases": [
+            "prisma-link"
+        ]
+    },
+    {
+        "slug": "prudential",
+        "name": "Prudential",
+        "category": "insurance"
+    },
+    {
+        "slug": "qnb",
+        "name": "QNB",
+        "category": "bank-logo",
+        "aliases": [
+            "167",
+            "awanidja",
+            "bank-qnb",
+            "bank-qnb-indonesia"
+        ]
+    },
+    {
+        "slug": "qoala",
+        "name": "Qoala",
+        "category": "insurance"
+    },
+    {
+        "slug": "qr-ph",
+        "name": "QR Ph",
+        "category": "qr-payment"
+    },
+    {
+        "slug": "qris",
+        "name": "QRIS",
+        "category": "qr-payment",
+        "aliases": [
+            "quick-response-code-indonesian-standard"
+        ]
+    },
+    {
+        "slug": "rex",
+        "name": "REX",
+        "category": "logistic"
+    },
+    {
+        "slug": "ria-money",
+        "name": "Ria Money",
+        "category": "remittance"
+    },
+    {
+        "slug": "rpx",
+        "name": "RPX",
+        "category": "logistic"
+    },
+    {
+        "slug": "rumah-zakat",
+        "name": "Rumah Zakat",
+        "category": "donation"
+    },
+    {
+        "slug": "rumah-zakat-alt",
+        "name": "Rumah Zakat (Alt)",
+        "category": "donation"
+    },
+    {
+        "slug": "samsung-card",
+        "name": "Samsung Card",
+        "category": "card-payment"
+    },
+    {
+        "slug": "samsung-pay",
+        "name": "Samsung Pay",
+        "category": "miscellaneous",
+        "aliases": [
+            "samsungpay"
+        ]
+    },
+    {
+        "slug": "samsung-pay-alt",
+        "name": "Samsung Pay (Alt)",
+        "category": "miscellaneous"
+    },
+    {
+        "slug": "sap-express",
+        "name": "SAP Express",
+        "category": "logistic"
+    },
+    {
+        "slug": "sbi-indonesia",
+        "name": "SBI Indonesia",
+        "category": "bank-logo",
+        "aliases": [
+            "sbididja",
+            "498",
+            "bank-sbi",
+            "bank-sbi-indonesia"
+        ]
+    },
+    {
+        "slug": "seabank",
+        "name": "SeaBank",
+        "category": "bank-logo",
+        "aliases": [
+            "sspiidja",
+            "535",
+            "bank-seabank-indonesia"
+        ]
+    },
+    {
+        "slug": "seabank-alt",
+        "name": "SeaBank (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "sequis",
+        "name": "Sequis",
+        "category": "insurance"
+    },
+    {
+        "slug": "sgqr",
+        "name": "SGQR",
+        "category": "qr-payment"
+    },
+    {
+        "slug": "sgqr-plus",
+        "name": "SGQR+",
+        "category": "qr-payment"
+    },
+    {
+        "slug": "shinhan-bank",
+        "name": "Shinhan Bank",
+        "category": "bank-logo",
+        "aliases": [
+            "152",
+            "meekidj1",
+            "bank-shinhan",
+            "bank-shinhan-indonesia"
+        ]
+    },
+    {
+        "slug": "shinhan-bank-alt",
+        "name": "Shinhan Bank (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "shopee",
+        "name": "Shopee",
+        "category": "e-commerce"
+    },
+    {
+        "slug": "shopee-alt",
+        "name": "Shopee (Alt)",
+        "category": "e-commerce"
+    },
+    {
+        "slug": "shopee-pay",
+        "name": "Shopee Pay",
+        "category": "e-wallet",
+        "aliases": [
+            "shopeepay"
+        ]
+    },
+    {
+        "slug": "sicepat-ekspres",
+        "name": "SiCepat Ekspres",
+        "category": "logistic",
+        "aliases": [
+            "sicepat"
+        ]
+    },
+    {
+        "slug": "simpati",
+        "name": "simPATI",
+        "category": "mobile-telco",
+        "aliases": [
+            "simpati-new"
+        ]
+    },
+    {
+        "slug": "simpati-old",
+        "name": "simPATI (Old)",
+        "category": "mobile-telco"
+    },
+    {
+        "slug": "sinarmas",
+        "name": "Sinarmas",
+        "category": "bank-logo",
+        "aliases": [
+            "sbjkidja",
+            "153",
+            "bank-sinarmas"
+        ]
+    },
+    {
+        "slug": "sinarmas-syariah",
+        "name": "Sinarmas Syariah",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "skrill",
+        "name": "Skrill",
+        "category": "remittance"
+    },
+    {
+        "slug": "smartfren",
+        "name": "Smartfren",
+        "category": "mobile-telco",
+        "aliases": [
+            "smart-fren"
+        ]
+    },
+    {
+        "slug": "smartfren-old",
+        "name": "Smartfren (Old)",
+        "category": "mobile-telco"
+    },
+    {
+        "slug": "speedcash",
+        "name": "SpeedCash",
+        "category": "e-wallet"
+    },
+    {
+        "slug": "spotify",
+        "name": "Spotify",
+        "category": "entertainment"
+    },
+    {
+        "slug": "spotify-alt",
+        "name": "Spotify (Alt)",
+        "category": "entertainment"
+    },
+    {
+        "slug": "spx-express",
+        "name": "SPX Express",
+        "category": "logistic",
+        "aliases": [
+            "shopee-express",
+            "spx"
+        ]
+    },
+    {
+        "slug": "standard-chartered",
+        "name": "Standard Chartered",
+        "category": "bank-logo",
+        "aliases": [
+            "050",
+            "scblidjx",
+            "standchard",
+            "standard-chartered-bank"
+        ]
+    },
+    {
+        "slug": "steam",
+        "name": "Steam",
+        "category": "game"
+    },
+    {
+        "slug": "stripe",
+        "name": "Stripe",
+        "category": "payment-gateway"
+    },
+    {
+        "slug": "sun-life",
+        "name": "Sun Life",
+        "category": "insurance"
+    },
+    {
+        "slug": "super-indo",
+        "name": "Super Indo",
+        "category": "supermarket",
+        "aliases": [
+            "superindo"
+        ]
+    },
+    {
+        "slug": "superbank",
+        "name": "Superbank",
+        "category": "bank-logo",
+        "aliases": [
+            "famaidj1",
+            "562",
+            "super-bank",
+            "super-bank-indonesia"
+        ]
+    },
+    {
+        "slug": "superbank-alt",
+        "name": "Superbank (Alt)",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "swift",
+        "name": "SWIFT",
+        "category": "remittance"
+    },
+    {
+        "slug": "swift-alt",
+        "name": "SWIFT (Alt)",
+        "category": "remittance"
+    },
+    {
+        "slug": "taf-toyota-astra-financial",
+        "name": "TAF - Toyota Astra Financial",
+        "category": "financing",
+        "aliases": [
+            "taf",
+            "toyota-astra-financial"
+        ]
+    },
+    {
+        "slug": "taspen",
+        "name": "Taspen",
+        "category": "insurance"
+    },
+    {
+        "slug": "telkomsel",
+        "name": "Telkomsel",
+        "category": "mobile-telco",
+        "aliases": [
+            "tsel"
+        ]
+    },
+    {
+        "slug": "telkomsel-alt",
+        "name": "Telkomsel (Alt)",
+        "category": "mobile-telco"
+    },
+    {
+        "slug": "telkomsel-halo",
+        "name": "Telkomsel Halo",
+        "category": "mobile-telco"
+    },
+    {
+        "slug": "telkomsel-orbit",
+        "name": "Telkomsel Orbit",
+        "category": "isp",
+        "aliases": [
+            "orbit"
+        ]
+    },
+    {
+        "slug": "telkomsel-prabayar",
+        "name": "Telkomsel Prabayar",
+        "category": "mobile-telco"
+    },
+    {
+        "slug": "thai-qr-payment",
+        "name": "Thai QR Payment",
+        "category": "qr-payment"
+    },
+    {
+        "slug": "thai-qr-payment-alt",
+        "name": "Thai QR Payment (Alt)",
+        "category": "qr-payment"
+    },
+    {
+        "slug": "the-foodhall",
+        "name": "The Foodhall",
+        "category": "supermarket",
+        "aliases": [
+            "foodhall"
+        ]
+    },
+    {
+        "slug": "tiki",
+        "name": "TIKI",
+        "category": "logistic",
+        "aliases": [
+            "titipan-kilat"
+        ]
+    },
+    {
+        "slug": "tiktok-shop",
+        "name": "TikTok Shop",
+        "category": "e-commerce",
+        "aliases": [
+            "tiktokshop"
+        ]
+    },
+    {
+        "slug": "tokopedia",
+        "name": "Tokopedia",
+        "category": "e-commerce"
+    },
+    {
+        "slug": "tokopedia-alt",
+        "name": "Tokopedia (Alt)",
+        "category": "e-commerce"
+    },
+    {
+        "slug": "topremit",
+        "name": "Topremit",
+        "category": "remittance"
+    },
+    {
+        "slug": "topremit-alt",
+        "name": "Topremit (Alt)",
+        "category": "remittance",
+        "aliases": [
+            "topremit-1"
+        ]
+    },
+    {
+        "slug": "toserba-yogya",
+        "name": "Toserba Yogya",
+        "category": "supermarket"
+    },
+    {
+        "slug": "toyota-financial-service",
+        "name": "Toyota Financial Service",
+        "category": "financing",
+        "aliases": [
+            "tfs"
+        ]
+    },
+    {
+        "slug": "transfez",
+        "name": "Transfez",
+        "category": "remittance"
+    },
+    {
+        "slug": "transjakarta",
+        "name": "TransJakarta",
+        "category": "transportation",
+        "aliases": [
+            "trans-jakarta",
+            "busway"
+        ]
+    },
+    {
+        "slug": "transmart",
+        "name": "Transmart",
+        "category": "supermarket"
+    },
+    {
+        "slug": "transvision",
+        "name": "TransVision",
+        "category": "entertainment",
+        "aliases": [
+            "transvision-new"
+        ]
+    },
+    {
+        "slug": "transvision-old",
+        "name": "TransVision (Old)",
+        "category": "entertainment"
+    },
+    {
+        "slug": "tri",
+        "name": "Tri",
+        "category": "mobile-telco",
+        "aliases": [
+            "three"
+        ]
+    },
+    {
+        "slug": "truemoney",
+        "name": "TrueMoney",
+        "category": "e-wallet",
+        "aliases": [
+            "true-money"
+        ]
+    },
+    {
+        "slug": "uangku",
+        "name": "Uangku",
+        "category": "e-wallet"
+    },
+    {
+        "slug": "ubisoft-plus",
+        "name": "UBISOFT+",
+        "category": "game"
+    },
+    {
+        "slug": "union-pay",
+        "name": "UnionPay",
+        "category": "card-payment",
+        "aliases": [
+            "unionpay"
+        ]
+    },
+    {
+        "slug": "union-pay-contactless",
+        "name": "UnionPay Contactless",
+        "category": "card-payment",
+        "aliases": [
+            "unionpay-contactless"
+        ]
+    },
+    {
+        "slug": "union-pay-contactless-en",
+        "name": "UnionPay Contactless (EN)",
+        "category": "card-payment"
+    },
+    {
+        "slug": "union-pay-en",
+        "name": "UnionPay (EN)",
+        "category": "card-payment"
+    },
+    {
+        "slug": "uob",
+        "name": "UOB",
+        "category": "bank-logo",
+        "aliases": [
+            "023",
+            "bbijidja",
+            "uob-indonesia",
+            "bank-uob-indonesia"
+        ]
+    },
+    {
+        "slug": "uob-ez-pay",
+        "name": "UOB EZ Pay",
+        "category": "direct-debit",
+        "aliases": [
+            "uob-ezpay"
+        ]
+    },
+    {
+        "slug": "uob-tmrw",
+        "name": "UOB TMRW",
+        "category": "bank-app",
+        "aliases": [
+            "tmrw"
+        ]
+    },
+    {
+        "slug": "verified-by-visa",
+        "name": "Verified by VISA",
+        "category": "card-payment",
+        "aliases": [
+            "verified-by-visa-new",
+            "vbv"
+        ]
+    },
+    {
+        "slug": "verified-by-visa-old",
+        "name": "Verified by VISA (Old)",
+        "category": "card-payment"
+    },
+    {
+        "slug": "verifone",
+        "name": "Verifone",
+        "category": "miscellaneous",
+        "aliases": [
+            "verifone-new"
+        ]
+    },
+    {
+        "slug": "verifone-old",
+        "name": "Verifone (Old)",
+        "category": "miscellaneous"
+    },
+    {
+        "slug": "vidio",
+        "name": "Vidio",
+        "category": "entertainment"
+    },
+    {
+        "slug": "vietqr",
+        "name": "VietQR",
+        "category": "qr-payment",
+        "aliases": [
+            "viet-qr"
+        ]
+    },
+    {
+        "slug": "visa",
+        "name": "VISA",
+        "category": "card-payment"
+    },
+    {
+        "slug": "visa-checkout",
+        "name": "VISA Checkout",
+        "category": "card-payment"
+    },
+    {
+        "slug": "visa-debit",
+        "name": "VISA Debit",
+        "category": "card-payment"
+    },
+    {
+        "slug": "visa-pay",
+        "name": "VISA Pay",
+        "category": "card-payment"
+    },
+    {
+        "slug": "visa-paywave",
+        "name": "VISA PayWave",
+        "category": "card-payment",
+        "aliases": [
+            "paywave"
+        ]
+    },
+    {
+        "slug": "visa-plus",
+        "name": "VISA Plus",
+        "category": "card-payment"
+    },
+    {
+        "slug": "visa-secure-3ds",
+        "name": "VISA Secure (3DS)",
+        "category": "card-payment"
+    },
+    {
+        "slug": "visa-signature",
+        "name": "VISA Signature",
+        "category": "card-payment"
+    },
+    {
+        "slug": "vision-plus",
+        "name": "Vision+",
+        "category": "entertainment",
+        "aliases": [
+            "visionplus"
+        ]
+    },
+    {
+        "slug": "viu",
+        "name": "VIU",
+        "category": "entertainment"
+    },
+    {
+        "slug": "wahana-express",
+        "name": "Wahana Express",
+        "category": "logistic"
+    },
+    {
+        "slug": "wahana-express-alt",
+        "name": "Wahana Express (Alt)",
+        "category": "logistic"
+    },
+    {
+        "slug": "wechat-pay",
+        "name": "WeChat Pay",
+        "category": "miscellaneous",
+        "aliases": [
+            "wechatpay",
+            "weixin-pay"
+        ]
+    },
+    {
+        "slug": "wechat-pay-alt",
+        "name": "WeChat Pay (Alt)",
+        "category": "miscellaneous"
+    },
+    {
+        "slug": "welab-bank",
+        "name": "Welab Bank",
+        "category": "bank-logo"
+    },
+    {
+        "slug": "western-union",
+        "name": "Western Union",
+        "category": "remittance",
+        "aliases": [
+            "wu"
+        ]
+    },
+    {
+        "slug": "whoosh",
+        "name": "Whoosh",
+        "category": "transportation",
+        "aliases": [
+            "kcic"
+        ]
+    },
+    {
+        "slug": "wirecard",
+        "name": "Wirecard",
+        "category": "miscellaneous"
+    },
+    {
+        "slug": "wise",
+        "name": "Wise",
+        "category": "remittance"
+    },
+    {
+        "slug": "wom-finance",
+        "name": "WOM Finance",
+        "category": "financing"
+    },
+    {
+        "slug": "wondr-by-bni",
+        "name": "Wondr by BNI",
+        "category": "bank-app",
+        "aliases": [
+            "wondr"
+        ]
+    },
+    {
+        "slug": "world-bank",
+        "name": "World Bank",
+        "category": "regulatory",
+        "aliases": [
+            "bank-dunia"
+        ]
+    },
+    {
+        "slug": "world-bank-alt",
+        "name": "World Bank (Alt)",
+        "category": "regulatory"
+    },
+    {
+        "slug": "xbox-game-pass",
+        "name": "XBOX Game Pass",
+        "category": "game",
+        "aliases": [
+            "game-pass"
+        ]
+    },
+    {
+        "slug": "xendit",
+        "name": "Xendit",
+        "category": "payment-gateway"
+    },
+    {
+        "slug": "xl",
+        "name": "XL",
+        "category": "mobile-telco"
+    },
+    {
+        "slug": "xl-prioritas",
+        "name": "XL Prioritas",
+        "category": "mobile-telco"
+    },
+    {
+        "slug": "xl-satu",
+        "name": "XL Satu",
+        "category": "isp"
+    },
+    {
+        "slug": "xl-smart",
+        "name": "XL Smart",
+        "category": "mobile-telco"
+    },
+    {
+        "slug": "xl-smart-alt",
+        "name": "XL SMART (Alt)",
+        "category": "mobile-telco"
+    },
+    {
+        "slug": "xxi-21",
+        "name": "XXI (21)",
+        "category": "entertainment"
+    },
+    {
+        "slug": "yomart",
+        "name": "Yomart",
+        "category": "supermarket"
+    },
+    {
+        "slug": "yukk",
+        "name": "Yukk",
+        "category": "e-wallet"
+    },
+    {
+        "slug": "zalora",
+        "name": "Zalora",
+        "category": "e-commerce"
+    },
+    {
+        "slug": "zurich",
+        "name": "Zurich",
+        "category": "insurance"
+    },
+    {
+        "slug": "zurich-alt",
+        "name": "Zurich (Alt)",
+        "category": "insurance"
+    }
+]

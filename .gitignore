@@ -1,0 +1,73 @@
+##########################
+# Laravel Core
+##########################
+/vendor
+/node_modules
+/public/build
+/public/hot
+/public/storage
+
+##########################
+# Environment & Secrets (PENTING! Jangan di-push)
+##########################
+.env
+.env.*
+!.env.example
+
+##########################
+# Storage & Cache
+##########################
+/storage/*.key
+/storage/app/public
+/storage/framework/cache/data/*
+/storage/framework/sessions/*
+/storage/framework/testing/*
+/storage/framework/views/*
+/storage/logs/*
+
+# Keep storage folder structure
+!/storage/app/public/.gitkeep
+!/storage/framework/cache/data/.gitkeep
+!/storage/framework/sessions/.gitkeep
+!/storage/framework/testing/.gitkeep
+!/storage/framework/views/.gitkeep
+!/storage/logs/.gitkeep
+
+##########################
+# Database (SQLite)
+##########################
+/database/database.sqlite
+*.sqlite
+*.sqlite3
+
+##########################
+# IDE & Editor Files
+##########################
+.idea
+.vscode
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+##########################
+# Testing
+##########################
+/coverage
+/.phpunit.result.cache
+phpunit.xml
+
+##########################
+# Build & Compiled Files
+##########################
+npm-debug.log*
+yarn-error.log
+/.fleet
+/.zed
+
+##########################
+# Misc
+##########################
+*.log
+*.zip
+*.tar.gz

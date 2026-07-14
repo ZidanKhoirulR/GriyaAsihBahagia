@@ -1,0 +1,103 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ===== Custom Animations ===== */
+@keyframes float {
+    0%, 100% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(-12px);
+    }
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes scrollDot {
+    0% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+    100% {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+}
+
+.animate-float {
+    animation: float 4s ease-in-out infinite;
+}
+
+.animate-fade-in-up {
+    animation: fadeInUp 1s ease-out forwards;
+}
+
+.animate-scroll-dot {
+    animation: scrollDot 1.5s ease-in-out infinite;
+}
+
+/* ===== Swiper Custom Pagination Dots ===== */
+.hero-swiper .swiper-pagination {
+    bottom: 60px !important;
+}
+
+.hero-swiper .custom-bullet {
+    width: 12px;
+    height: 12px;
+    background: rgba(255, 255, 255, 0.4);
+    border-radius: 9999px;
+    opacity: 1;
+    margin: 0 6px !important;
+    transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    cursor: pointer;
+    display: inline-block;
+}
+
+.hero-swiper .custom-bullet:hover {
+    background: rgba(255, 255, 255, 0.7);
+    transform: scale(1.2);
+}
+
+.hero-swiper .custom-bullet-active {
+    width: 40px;
+    background: linear-gradient(90deg, #D4A417, #FFD11A);
+    box-shadow: 0 0 12px rgba(212, 164, 23, 0.5);
+}
+
+/* ===== Swiper Fade transition ===== */
+.hero-swiper .swiper-slide {
+    transition: opacity 1.2s ease-in-out !important;
+}
+
+/* ===== Smooth Scrolling ===== */
+html {
+    scroll-behavior: smooth;
+}
+
+/* ===== Scrollbar Styling ===== */
+::-webkit-scrollbar {
+    width: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #D4A417;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #B8860B;
+}
